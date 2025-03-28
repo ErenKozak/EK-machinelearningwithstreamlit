@@ -4,7 +4,7 @@ This is a Machine Learning App
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ek-firststreamlitdeployment.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ek-firstmldeployment.streamlit.app/)
 
 ## GitHub Codespaces
 
