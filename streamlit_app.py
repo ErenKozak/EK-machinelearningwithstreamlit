@@ -38,4 +38,4 @@ if st.button("Fiyat Tahmini Yap"):
 # Model performansını gösterme
 y_pred = model.predict(X_test)
 mae = mean_absolute_error(y_test, y_pred)
-st.write(f"Modelin Ortalama Mutlak Hata (MAE) Değeri: {mae:,.0f} TL")
+st.write(f"Modelin Ortalama Mutlak Hata (MAE) Değeri: {mae:,.0f} TLdir")
